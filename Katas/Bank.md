@@ -10,7 +10,9 @@ Step 2:
 * Write a class *Bank* that will hold a list of accounts
 
 Step 3:
-* Wait for it
+* This bank is not very good at planning. So they somehow forgot to mention they will need multiple types of accounts. But surely, your solution is ready for that.
+* Implement a class *OverdraftAccount*
+* Account has overdraft limit, which will allow the owner to withdraw money even if there is a negative balance up to overdraft limit.
 
 
 Recommendations:
