@@ -10,7 +10,7 @@ Step 2:
 * Write a class *Bank* that will hold a list of accounts
 
 Step 3:
-
+* Wait for it
 
 
 Recommendations:
